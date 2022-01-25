@@ -1,0 +1,22 @@
+{
+    "accounts": [
+        {
+            "nome": "Vitor Arriada Oliveira",
+            "tipo_de_conta": "conta corrente",
+            "saldo": 1100,
+            "codigo": 158300
+        },
+        {
+            "nome": "Eduardo da Silva",
+            "tipo_de_conta": "conta poupança",
+            "saldo": 168.2,
+            "codigo": 233511
+        },
+        {
+            "nome": "Valdemar de Sousa",
+            "tipo_de_conta": "conta poupanca",
+            "saldo": 0,
+            "codigo": 123098
+        }
+    ]
+}
